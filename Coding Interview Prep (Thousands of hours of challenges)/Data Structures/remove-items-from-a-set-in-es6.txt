@@ -1,0 +1,10 @@
+function checkSet(){
+// Only change code below this line
+var set1 = new Set([1,2,3,4,5]);
+set1.delete(2);
+set1.delete(5);
+// Only change code above this line
+return set1;   
+}
+
+console.log(checkSet())

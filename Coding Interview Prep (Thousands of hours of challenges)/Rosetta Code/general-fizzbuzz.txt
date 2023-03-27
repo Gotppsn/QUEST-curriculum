@@ -1,0 +1,5 @@
+function genFizzBuzz(rules, num) {
+  return rules
+    .reduce((str, rule) => num % rule[0] ? str : str + rule[1], "")
+    || num.toString();
+}

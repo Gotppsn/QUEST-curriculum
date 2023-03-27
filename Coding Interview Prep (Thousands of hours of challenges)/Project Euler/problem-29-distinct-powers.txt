@@ -1,0 +1,9 @@
+function distinctPowers(n) {
+  let powers = {};
+  for (let i = 2; i <= n; i++) {
+    for (let j = 2; j <= n; j++) {
+      powers[Math.pow(i, j)] = true; // Repeated instances will not add additional key
+    }
+  }
+  return Object.keys(powers).length;
+}

@@ -1,0 +1,5 @@
+function factors(num) {
+  return Array
+    .from(Array(num + 1), (_, i) => i)
+    .filter(i => num % i === 0)
+}

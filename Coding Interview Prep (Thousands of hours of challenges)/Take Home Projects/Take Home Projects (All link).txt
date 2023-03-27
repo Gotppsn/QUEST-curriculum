@@ -1,0 +1,59 @@
+Show the Local Weather
+https://codepen.io/gotbob191/pen/dyjpNQR
+
+Build a Wikipedia Viewer
+https://codepen.io/gotbob191/pen/MWBjJLW
+
+Use the Twitch JSON API
+https://codepen.io/gotbob191/pen/dyjpNEV
+
+Build an Image Search Abstraction Layer
+(can't find anwser)
+
+Build a Tic Tac Toe Game
+https://codepen.io/gotbob191/pen/eYjdvmZ
+
+Build a Simon Game
+https://codepen.io/gotbob191/pen/eYjdvpZ
+
+Build a freeCodeCamp Forum Homepage
+https://codepen.io/gotbob191/pen/VwBKpaX
+
+Build a Recipe Box
+https://codepen.io/gotbob191/pen/NWBRpgK
+
+Build the Game of Life
+https://codepen.io/gotbob191/pen/gOjwmxE
+
+Build a Roguelike Dungeon Crawler Game
+https://codepen.io/gotbob191/pen/gOjwmXE
+
+P2P Video Chat Application
+(can't find anwser)
+
+Show National Contiguity with a Force Directed Graph
+https://codepen.io/gotbob191/pen/ZEjperL
+
+Map Data Across the Globe
+https://codepen.io/gotbob191/pen/QWBKpmj
+
+Manage a Book Trading Club
+(can't find anwser)
+
+Build a Pinterest Clone
+(can't find anwser)
+
+Build a Nightlife Coordination App
+(can't find anwser)
+
+Chart the Stock Market
+(can't find anwser)
+
+Build a Voting App
+(can't find anwser)
+
+Build a Pong Game
+(can't find anwser)
+
+Build a Light-Bright App
+(can't find anwser)
