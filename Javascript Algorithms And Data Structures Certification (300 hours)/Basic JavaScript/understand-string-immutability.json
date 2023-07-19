@@ -1,1 +1,0 @@
-{"index.js":"// Setup\nvar myStr = \"Jello World\";\n\n// Only change code below this line\n\nvar newStr = myStr.slice(1);\n\nmyStr = 'H' + newStr;\n\n"}
